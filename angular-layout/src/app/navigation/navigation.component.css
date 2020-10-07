@@ -1,0 +1,19 @@
+nav ul {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  list-style: none;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+hr {
+  border: 0.3px solid #F05136;
+  ;
+}
+
+nav ul li {
+  font-weight: 700;
+  font-size: 1.2em;
+  padding-left: 10px;
+}
